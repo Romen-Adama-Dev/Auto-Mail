@@ -27,4 +27,3 @@ Este proyecto es un script de Python que permite al usuario enviar correos elect
 ## Cómo usarlo
 
 `python3 script_envio_correo.py`
-# Auto-Mail
